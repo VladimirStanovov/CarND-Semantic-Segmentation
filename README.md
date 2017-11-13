@@ -20,4 +20,15 @@ A number of parameter sets was tested, and the following values appeared to deli
 ### Results
 
 The average loss at the end of optimization process is around 0.02-0.04.
-The following images are presented to visualize the model perofrmance. Although most of the road pixels are marked correctly, there are some false positives.
+The following images are presented to visualize the model perofrmance in different cases. Although most of the road pixels are marked correctly, there are some false positives.
+
+![1](./um000013.png)
+![2](./um000029.png)
+![3](./um000051.png)
+![4](./um000061.png)
+![5](./um000072.png)
+![6](./um000085.png)
+![7](./umm000007.png)
+![8](./umm000069.png)
+![9](./uu000052.png)
+![10](./uu000069.png)
